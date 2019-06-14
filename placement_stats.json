@@ -1,0 +1,137 @@
+{
+   "data": [
+    {
+        "id": "f65121eb-e6b7-4d13-b381-0fbcbc0ce06c",
+        "name": "TEK System",
+        "ctc": 6,
+        "recruitments": 2,
+        "link":" /img/company/tek.jpg"
+    },
+    {
+        "id": "2dcdce3b-5170-4f43-955d-5f46c0297069",
+        "name": "DELL",
+        "ctc": 8.5,
+        "recruitments": 23,
+        "link":" /img/company/dell.png"
+    },
+    {
+        "id": "4323665a-5be1-41e5-b600-3c3722fd1d91",
+        "name": "APTUS DATA LAB",
+        "ctc": 5.1,
+        "recruitments": 10,
+        "link":"/img/company/aptus.jpg "
+    },
+    {
+        "id": "a72ab166-83bd-4413-af2c-494702285c67",
+        "name": "ODESSA",
+        "ctc": 5.5,
+        "recruitments": 2,
+        "link":"/img/company/odessa.jpg"
+    },
+    {
+        "id": "ac30e765-cc53-4e5b-9a41-1e95b07a2507",
+        "name": "GYANSYS",
+        "ctc": 3.6,
+        "recruitments": 1,
+        "link":"/img/company/gyansis.png "
+    },
+    {
+        "id": "17a8a7c3-e925-48dd-bbbe-1fc2473694b4",
+        "name": "MINDTREE",
+        "ctc": 3.5,
+        "recruitments": 30,
+        "link":"/img/company/mind.png "
+    },
+    {
+        "id": "242d4d67-d560-48cf-a557-5e428b0a06f9",
+        "name": "INFOSYS",
+        "ctc": 3.6,
+        "recruitments": 88,
+        "link":"/img/company/infosys.jpg "
+    },
+    {
+        "id": "d1308fea-85b4-4c8b-9a62-6c3d290bd7a2",
+        "name": "ERNST & YOUNG",
+        "ctc": 3.8,
+        "recruitments": 14,
+        "link":"/img/company/ernst.jpg "
+    },
+    {
+        "id": "bfe9d89e-d1a9-4cd7-aef3-8f176c4803e3",
+        "name": "HSBC",
+        "ctc": 7,
+        "recruitments": 9,
+        "link":"/img/company/hsbc.png"
+    },
+    {
+        "id": "c0a5249e-6e2d-4aaa-b8f4-2ebd2f92da7a",
+        "name": "INCTURE",
+        "ctc": 6,
+        "recruitments": 8,
+        "link":"img/company/incture.png "
+    },
+    {
+        "id": "67cb8685-00c1-4331-8a90-0af93870a979",
+        "name": "IBM",
+        "ctc": 3.5,
+        "recruitments": 36,
+        "link":"img/company/IBM.png"
+    },
+    {
+        "id": "5ebf85ae-cfcd-4392-b2c7-545b2f65d2bb",
+        "name": "QUANTIPHI",
+        "ctc": "10-12",
+        "recruitments": 3,
+        "link":"img/company/quantiphi.jpg"
+    },
+    {
+        "id": "111f898b-88e1-4d86-83af-08c5e5d39f1b",
+        "name": "UTOPIA GLOBAL",
+        "ctc": "10-12",
+        "recruitments": 4,
+        "link":"img/company/Utopia-Labs.jpg"
+    },
+    {
+        "id": "be771e1e-9bb1-4f8e-bf05-4e0f0c5febea",
+        "name": "AKASH INSTITUTE",
+        "ctc":" 6-7",
+        "recruitments": 0,
+        "link":"img/company/aakash.jpg"
+    },
+    {
+        "id": "4ca60ee3-2b43-4ef2-8b37-6a2d8ebedec6",
+        "name": "HITACHI CONSULTING",
+        "ctc": 5,
+        "recruitments": 1,
+        "link":"/img/company/hitachi.jpg"
+    },
+    {
+        "id": "064669b8-dc92-46b2-9a00-a18566feb2a0",
+        "name": "TCS",
+        "ctc": "3.5 & 8",
+        "recruitments": 16,
+        "link":"img/company/TCS.png"
+    },
+    {
+        "id": "22cd2e41-8041-4779-bb5f-009542e26def",
+        "name": "MINDFIRE",
+        "ctc": "3.64 & 4.37",
+        "recruitments": 6,
+        "link":"/img/company/mindfire.jpg"
+    },
+    {
+        "id": "40d5b411-ce11-4581-9840-0957ff7fa99e",
+        "name": "TIGER ANALYTICS",
+        "ctc": 8.5,
+        "recruitments": 4,
+        "link":"img/company/tiger.jpg"
+    },
+    {
+        "id": "012d592c-5fac-4325-94c5-078622555db7",
+        "name": "DRUBUS",
+        "ctc": 4,
+        "recruitments": 4,
+        "link":"img/company/Drubus.png"
+    }
+   ]
+}
